@@ -1,0 +1,31 @@
+extends layout
+
+
+block content
+  h1 List of Highscores and Players Comments
+ 
+  mixin email(addr)
+    a(href='mailto://'+ addr)= addr
+        
+  table
+    tr
+      th Name
+      th Highscore
+      th Comment
+      th Delete?
+    each p in people
+      tr
+        td #{p.name}
+        td #{p.highscore}
+        td #{p.comment}
+        td
+          a(href='/delete/'+p._id) Delete     
+   
+   form(action='/', method='post')
+     label(for='name') Name
+     input(id = 'name' , type='text', name='name')
+     label(for='highscore') Highscore
+     input(id='highscore', type ='number', name='highscore')
+     label(for='comment') Comments
+     input(id='comment', type ='text', name='comment')
+     input(type='submit', value='Submit')

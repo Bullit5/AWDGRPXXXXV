@@ -1,0 +1,168 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', 'app.js' ]
+2 info using npm@2.15.1
+3 info using node@v4.4.4
+4 verbose install initial load of /home/hidirj/Desktop/SimpleApp/package.json
+5 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/accepts/package.json
+6 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/acorn/package.json
+7 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/acorn-globals/package.json
+8 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/align-text/package.json
+9 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/amdefine/package.json
+10 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/array-flatten/package.json
+11 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/asap/package.json
+12 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/async/package.json
+13 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/basic-auth/package.json
+14 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/bluebird/package.json
+15 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/body-parser/package.json
+16 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/bson/package.json
+17 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/bytes/package.json
+18 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/camelcase/package.json
+19 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/center-align/package.json
+20 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/character-parser/package.json
+21 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/clean-css/package.json
+22 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/cliui/package.json
+23 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/commander/package.json
+24 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/constantinople/package.json
+25 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/content-disposition/package.json
+26 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/content-type/package.json
+27 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/cookie/package.json
+28 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/cookie-parser/package.json
+29 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/cookie-signature/package.json
+30 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/core-util-is/package.json
+31 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/css/package.json
+32 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/css-parse/package.json
+33 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/css-stringify/package.json
+34 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/debug/package.json
+35 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/decamelize/package.json
+36 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/depd/package.json
+37 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/destroy/package.json
+38 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/ee-first/package.json
+39 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/es6-promise/package.json
+40 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/escape-html/package.json
+41 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/etag/package.json
+42 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/express/package.json
+43 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/finalhandler/package.json
+44 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/forwarded/package.json
+45 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/fresh/package.json
+46 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/graceful-readlink/package.json
+47 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/hooks-fixed/package.json
+48 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/http-errors/package.json
+49 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/iconv-lite/package.json
+50 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/inherits/package.json
+51 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/ipaddr.js/package.json
+52 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/is-buffer/package.json
+53 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/is-promise/package.json
+54 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/isarray/package.json
+55 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/jade/package.json
+56 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/jstransformer/package.json
+57 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/kareem/package.json
+58 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/kind-of/package.json
+59 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/lazy-cache/package.json
+60 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/longest/package.json
+61 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/media-typer/package.json
+62 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/merge-descriptors/package.json
+63 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/methods/package.json
+64 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mime/package.json
+65 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mime-db/package.json
+66 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mime-types/package.json
+67 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/minimist/package.json
+68 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mkdirp/package.json
+69 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mongodb/package.json
+70 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mongodb-core/package.json
+71 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mongoose/package.json
+72 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/morgan/package.json
+73 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mpath/package.json
+74 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mpromise/package.json
+75 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/mquery/package.json
+76 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/ms/package.json
+77 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/muri/package.json
+78 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/negotiator/package.json
+79 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/on-finished/package.json
+80 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/on-headers/package.json
+81 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/optimist/package.json
+82 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/parseurl/package.json
+83 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/path-to-regexp/package.json
+84 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/promise/package.json
+85 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/proxy-addr/package.json
+86 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/qs/package.json
+87 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/range-parser/package.json
+88 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/raw-body/package.json
+89 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/readable-stream/package.json
+90 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/regexp-clone/package.json
+91 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/repeat-string/package.json
+92 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/require_optional/package.json
+93 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/resolve-from/package.json
+94 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/right-align/package.json
+95 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/semver/package.json
+96 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/send/package.json
+97 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/serve-favicon/package.json
+98 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/serve-static/package.json
+99 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/sliced/package.json
+100 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/source-map/package.json
+101 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/statuses/package.json
+102 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/string_decoder/package.json
+103 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/transformers/package.json
+104 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/type-is/package.json
+105 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/uglify-js/package.json
+106 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/uglify-to-browserify/package.json
+107 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/unpipe/package.json
+108 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/utils-merge/package.json
+109 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/vary/package.json
+110 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/void-elements/package.json
+111 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/window-size/package.json
+112 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/with/package.json
+113 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/wordwrap/package.json
+114 verbose installManyTop reading scoped package data from /home/hidirj/Desktop/SimpleApp/node_modules/yargs/package.json
+115 info package.json asap@1.0.0 No repository field.
+116 info package.json asap@1.0.0 No license field.
+117 info package.json css@1.0.8 No repository field.
+118 info package.json css@1.0.8 No license field.
+119 info package.json css-parse@1.0.4 No repository field.
+120 info package.json css-parse@1.0.4 No license field.
+121 info package.json css-stringify@1.0.5 No repository field.
+122 info package.json css-stringify@1.0.5 No license field.
+123 info package.json hooks-fixed@1.1.0 No license field.
+124 info package.json kareem@1.0.1 license should be a valid SPDX license expression
+125 info package.json longest@1.0.1 license should be a valid SPDX license expression
+126 info package.json mime@1.3.4 No license field.
+127 info package.json ms@0.7.1 No license field.
+128 info package.json optimist@0.3.7 license should be a valid SPDX license expression
+129 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+130 info package.json utils-merge@1.0.0 No license field.
+131 info package.json window-size@0.1.0 No license field.
+132 verbose readDependencies loading dependencies from /home/hidirj/Desktop/SimpleApp/package.json
+133 silly cache add args [ 'app.js', null ]
+134 verbose cache add spec app.js
+135 silly cache add parsed spec Result {
+135 silly cache add   raw: 'app.js',
+135 silly cache add   scope: null,
+135 silly cache add   name: null,
+135 silly cache add   rawSpec: 'app.js',
+135 silly cache add   spec: '/home/hidirj/Desktop/SimpleApp/app.js',
+135 silly cache add   type: 'local' }
+136 silly addLocalTarball shasum (computed) f4940503f954300cc03278940b0b6ef7129415b5
+137 verbose addTmpTarball /home/hidirj/Desktop/SimpleApp/app.js not in flight; adding
+138 verbose correctMkdir /home/hidirj/.npm correctMkdir not in flight; initializing
+139 verbose addTmpTarball validating metadata from /home/hidirj/Desktop/SimpleApp/app.js
+140 verbose tar unpack /home/hidirj/Desktop/SimpleApp/app.js
+141 verbose tar unpacking to /tmp/npm-11627-693b4002/unpack-eb7a84db8ac7
+142 silly gentlyRm /tmp/npm-11627-693b4002/unpack-eb7a84db8ac7 is being purged
+143 verbose gentlyRm don't care about contents; nuking /tmp/npm-11627-693b4002/unpack-eb7a84db8ac7
+144 silly gunzTarPerm modes [ '775', '664' ]
+145 error not a package /home/hidirj/Desktop/SimpleApp/app.js
+146 error addLocal Could not install /home/hidirj/Desktop/SimpleApp/app.js
+147 verbose stack Error: ENOENT: no such file or directory, open '/tmp/npm-11627-693b4002/unpack-eb7a84db8ac7/package.json'
+147 verbose stack     at Error (native)
+148 verbose cwd /home/hidirj/Desktop/SimpleApp
+149 error Linux 3.13.0-37-generic
+150 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "app.js"
+151 error node v4.4.4
+152 error npm  v2.15.1
+153 error path /tmp/npm-11627-693b4002/unpack-eb7a84db8ac7/package.json
+154 error code ENOENT
+155 error errno -2
+156 error syscall open
+157 error enoent ENOENT: no such file or directory, open '/tmp/npm-11627-693b4002/unpack-eb7a84db8ac7/package.json'
+157 error enoent This is most likely not a problem with npm itself
+157 error enoent and is related to npm not being able to find a file.
+158 verbose exit [ -2, true ]
